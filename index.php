@@ -1,6 +1,12 @@
 <?php
 require_once "vendor/autoload.php";
 
-echo "Olá mundo!";
+$app = new Slim\Slim();
+
+$app->get('/', function(){
+	echo "Ok";
+});
+
+$app->run();
 
 ?>
