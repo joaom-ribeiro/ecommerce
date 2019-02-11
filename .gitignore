@@ -1,4 +1,6 @@
 composer.phar
+composer.json
+composer.lock
 /vendor/
 /vendor/composer/
 /vendor/phpmailer/
