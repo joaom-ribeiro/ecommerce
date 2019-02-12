@@ -1,12 +1,9 @@
 composer.phar
-composer.json
 composer.lock
-/vendor/
 /vendor/composer/
 /vendor/phpmailer/
 /vendor/rain/
 /vendor/slim/
-/vendor/hcodebr/
 /views-cache/
 config.php
 
